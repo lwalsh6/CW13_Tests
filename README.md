@@ -3,7 +3,7 @@ Names: Logan Walsh
 
 Date: 4/20/2023
 
-This is a program designed to test a decorator
+This is a practice assignment for running test functions on a program
 
 ## Important files
 * bank.cs -> The program itself
